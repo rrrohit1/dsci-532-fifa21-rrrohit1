@@ -1,0 +1,807 @@
+ID,Name,Age,Nationality,Overall,Potential,Club,Value,Wage,Preferred Foot,Position
+198710,James Rodríguez,28,Colombia,82,82,Everton,22500000,105000,Left,Midfielder
+246147,Mason Greenwood,18,England,77,89,Manchester United,14500000,33000,Left,Midfielder
+221479,Dominic Calvert-Lewin,23,England,79,84,Everton,17000000,80000,Right,Striker
+251954,Crysencio Summerville,18,Netherlands,68,83,Leeds United,1800000,14000,Right,Striker
+236610,Moise Kean,20,Italy,74,83,Everton,9000000,48000,Right,Striker
+246669,Bukayo Saka,18,England,75,88,Arsenal,12000000,22000,Left,Midfielder
+243414,Brandon Williams,19,England,75,85,Manchester United,9500000,40000,Right,Defender
+245279,Sergio Reguilón Rodríguez,23,Spain,82,89,Tottenham Hotspur,27500000,85000,Left,Defender
+212198,Bruno Miguel Borges Fernandes,25,Portugal,87,90,Manchester United,63000000,195000,Right,Midfielder
+234574,José Diogo Dalot Teixeira,21,Portugal,76,85,Manchester United,11000000,56000,Right,Defender
+216388,Allan Saint-Maximin,23,France,80,86,Newcastle United,20500000,43000,Right,Midfielder
+235790,Kai Havertz,21,Germany,85,93,Chelsea,57000000,105000,Left,Midfielder
+242418,Tariq Lamptey,19,England,66,83,Brighton & Hove Albion,1300000,7000,Right,Defender
+231677,Marcus Rashford,22,England,85,91,Manchester United,53000000,150000,Right,Midfielder
+224081,Kalvin Phillips,24,England,76,82,Leeds United,9500000,64000,Right,Midfielder
+245037,Eric García Martret,19,Spain,72,85,Manchester City,5500000,32000,Right,Defender
+239818,Rúben Santos Gato Alves Dias,23,Portugal,81,87,Manchester City,22000000,105000,Right,Defender
+251566,Gabriel Teodoro Martinelli Silva,19,Brazil,74,85,Arsenal,9500000,38000,Right,Striker
+243715,William Saliba,19,France,74,87,Arsenal,10000000,28000,Right,Defender
+240740,Callum Hudson-Odoi,19,England,74,86,Chelsea,10000000,41000,Right,Striker
+241461,Ferran Torres García,20,Spain,81,89,Manchester City,26500000,97000,Right,Midfielder
+225953,Steven Bergwijn,22,Netherlands,83,88,Tottenham Hotspur,34500000,105000,Right,Midfielder
+236532,Robin Koch,23,Germany,76,84,Leeds United,10500000,64000,Right,Defender
+238074,Reece James,20,England,77,86,Chelsea,12500000,49000,Right,Defender
+245992,Billy Gilmour,19,Scotland,71,86,Chelsea,5000000,25000,Right,Midfielder
+231943,Richarlison de Andrade,23,Brazil,81,88,Everton,25500000,90000,Right,Striker
+211300,Anthony Martial,24,France,84,88,Manchester United,41000000,155000,Right,Midfielder
+226491,Kieran Tierney,23,Scotland,78,86,Arsenal,13500000,59000,Left,Defender
+200104,Heung Min Son,27,Korea Republic,87,87,Tottenham Hotspur,52500000,165000,Right,Midfielder
+232580,Gabriel dos S. Magalhães,22,Brazil,78,85,Arsenal,13000000,59000,Left,Defender
+173731,Gareth Bale,30,Wales,83,83,Tottenham Hotspur,24500000,130000,Left,Midfielder
+221363,Donny van de Beek,23,Netherlands,83,87,Manchester United,33000000,125000,Right,Midfielder
+229880,Aaron Wan-Bissaka,22,England,83,88,Manchester United,30500000,115000,Right,Defender
+242656,Illan Meslier,20,France,69,81,Leeds United,1500000,18000,Left,Goalkeeper
+234378,Declan Rice,21,England,79,86,West Ham United,16500000,31000,Right,Midfielder
+212188,Timo Werner,24,Germany,85,88,Chelsea,49500000,135000,Right,Striker
+228092,Sander Berge,22,Norway,79,86,Sheffield United,16000000,34000,Right,Midfielder
+236988,Eddie Nketiah,21,England,71,83,Arsenal,4300000,35000,Right,Striker
+199914,Allan Marques Loureiro,29,Brazil,83,83,Everton,25000000,115000,Right,Midfielder
+237692,Phil Foden,20,England,79,88,Manchester City,19500000,86000,Left,Midfielder
+238460,Rhian Brewster,20,England,70,84,Liverpool,3900000,32000,Right,Striker
+235883,Ryan Sessegnon,20,England,75,86,Tottenham Hotspur,11500000,50000,Left,Midfielder
+233064,Mason Mount,21,England,80,87,Chelsea,21000000,69000,Right,Midfielder
+224458,Diogo José Teixeira da Silva,23,Portugal,80,86,Liverpool,20500000,90000,Right,Striker
+246174,Harvey Elliott,17,England,65,85,Liverpool,1100000,4000,Left,Striker
+242434,Curtis Jones,19,England,64,84,Liverpool,950000,9000,Right,Midfielder
+234642,Édouard Mendy,28,Senegal,79,81,Chelsea,11000000,69000,Right,Goalkeeper
+195864,Paul Pogba,27,France,86,87,Manchester United,50000000,190000,Right,Midfielder
+252042,João Pedro Junqueira de Jesus,18,Brazil,69,84,Watford,2200000,4000,Right,Striker
+225100,Joe Gomez,23,England,83,88,Liverpool,31000000,93000,Right,Defender
+232756,Fikayo Tomori,22,England,76,85,Chelsea,11000000,55000,Right,Defender
+213648,Pierre-Emile Højbjerg,24,Denmark,80,84,Tottenham Hotspur,17500000,73000,Right,Midfielder
+200458,Lucas Digne,26,France,84,85,Everton,31500000,110000,Left,Defender
+202126,Harry Kane,26,England,88,89,Tottenham Hotspur,71000000,220000,Right,Striker
+233306,Dean Henderson,23,England,80,87,Manchester United,16000000,70000,Right,Goalkeeper
+198329,Rodrigo Moreno Machado,29,Spain,82,82,Leeds United,22000000,140000,Left,Striker
+235454,Malang Sarr,21,France,75,79,Chelsea,8000000,44000,Left,Defender
+206517,Jack Grealish,24,England,80,83,Aston Villa,19000000,65000,Right,Striker
+205498,Luiz Frello Filho Jorge,28,Italy,83,83,Chelsea,25500000,125000,Right,Midfielder
+232104,Daniel James,22,Wales,77,83,Manchester United,12000000,81000,Right,Midfielder
+210243,Ricardo Barbosa Pereira,26,Portugal,85,87,Leicester City,40500000,120000,Right,Defender
+225782,Ainsley Maitland-Niles,22,England,76,84,Arsenal,10000000,52000,Right,Defender
+229984,Ben Chilwell,23,England,81,85,Chelsea,20500000,79000,Left,Defender
+216267,Andrew Robertson,26,Scotland,87,89,Liverpool,53000000,155000,Left,Defender
+203263,Harry Maguire,27,England,82,85,Manchester United,24000000,120000,Right,Defender
+237329,Joseph Willock,20,England,71,85,Arsenal,5000000,31000,Right,Midfielder
+206534,Patrick Bamford,26,England,71,72,Leeds United,2800000,56000,Left,Striker
+235569,Tanguy Ndombele,23,France,80,87,Tottenham Hotspur,20500000,82000,Right,Midfielder
+226627,Takumi Minamino,25,Japan,77,80,Liverpool,11000000,79000,Right,Striker
+253465,Teden Mengi,18,England,65,83,Manchester United,1000000,6000,Right,Defender
+226110,Nicolas Pépé,25,Ivory Coast,82,85,Arsenal,28000000,98000,Left,Striker
+224371,Jarrod Bowen,23,England,77,84,West Ham United,12500000,35000,Left,Midfielder
+232119,Çağlar Söyüncü,24,Turkey,80,85,Leicester City,18000000,69000,Right,Defender
+231448,Reiss Nelson,20,England,72,82,Arsenal,5000000,39000,Right,Striker
+236792,Tomáš Souček,25,Czech Republic,81,86,West Ham United,21500000,46000,Right,Midfielder
+226790,Wilfred Ndidi,23,Nigeria,84,88,Leicester City,36500000,96000,Right,Midfielder
+189509,Thiago Alcântara,29,Spain,85,85,Liverpool,37000000,150000,Right,Midfielder
+188567,Pierre-Emerick Aubameyang,31,Gabon,87,87,Arsenal,45000000,170000,Right,Striker
+243057,Neco Williams,19,Wales,67,85,Liverpool,1500000,11000,Right,Defender
+205452,Antonio Rüdiger,27,Germany,81,83,Chelsea,18500000,92000,Right,Defender
+222501,Timothy Castagne,24,Belgium,77,82,Leicester City,12000000,61000,Right,Midfielder
+208135,Abdoulaye Doucouré,27,France,78,80,Everton,11000000,69000,Right,Midfielder
+243828,Matthew Longstaff,20,England,72,85,Newcastle United,6000000,20000,Right,Midfielder
+231352,Tammy Abraham,22,England,78,85,Chelsea,15000000,77000,Right,Striker
+245158,Luis Javier Suárez,22,Colombia,75,86,Watford,11500000,17000,Right,Striker
+235735,Ethan Ampadu,19,Wales,67,84,Sheffield United,1500000,5000,Right,Defender
+237221,Juan Foyth,22,Argentina,75,83,Tottenham Hotspur,9000000,52000,Right,Defender
+234742,Harvey Barnes,22,England,79,85,Leicester City,17500000,80000,Right,Striker
+236496,Mattéo Guendouzi,21,France,77,86,Arsenal,12500000,46000,Right,Midfielder
+240273,Emile Smith Rowe,19,England,69,85,Arsenal,2300000,18000,Right,Midfielder
+208670,Hakim Ziyech,27,Morocco,85,86,Chelsea,44000000,140000,Left,Midfielder
+192985,Kevin De Bruyne,29,Belgium,91,91,Manchester City,87000000,370000,Right,Midfielder
+235889,Cengiz Ünder,22,Turkey,78,84,Leicester City,14000000,66000,Left,Midfielder
+243657,James Garner,19,England,66,84,Watford,1300000,3000,Right,Midfielder
+231936,Ben White,22,England,75,84,Brighton & Hove Albion,9500000,38000,Right,Defender
+220697,James Maddison,23,England,81,85,Leicester City,23000000,82000,Right,Midfielder
+203376,Virgil van Dijk,28,Netherlands,90,91,Liverpool,75500000,210000,Right,Defender
+218667,Bernardo Mota Carvalho e Silva,25,Portugal,87,88,Manchester City,60000000,230000,Left,Midfielder
+243390,Ian Poveda,20,England,62,77,Leeds United,675000,11000,Left,Midfielder
+236600,Japhet Tanganga,21,England,71,83,Tottenham Hotspur,3900000,29000,Right,Defender
+209331,Mohamed Salah,28,Egypt,90,90,Liverpool,78000000,250000,Left,Striker
+244915,Mohammed Salisu,21,Ghana,76,84,Southampton,10500000,32000,Left,Defender
+208722,Sadio Mané,28,Senegal,90,90,Liverpool,78000000,250000,Right,Striker
+208830,Jamie Vardy,33,England,86,86,Leicester City,28000000,160000,Right,Striker
+232223,Konstantinos Tsimikas,24,Greece,76,81,Liverpool,9000000,55000,Left,Defender
+219809,Tiemoué Bakayoko,25,France,79,81,Chelsea,14000000,77000,Right,Midfielder
+201417,Matt Doherty,28,Republic of Ireland,81,81,Tottenham Hotspur,15000000,96000,Right,Defender
+203747,Héctor Bellerín Moruno,25,Spain,80,85,Arsenal,17500000,76000,Right,Defender
+183711,Jordan Henderson,30,England,86,86,Liverpool,36500000,140000,Right,Midfielder
+209499,Fábio Henrique Tavares,26,Brazil,87,89,Liverpool,54500000,155000,Right,Midfielder
+231554,James Justin,22,England,73,81,Leicester City,5500000,42000,Right,Defender
+202652,Raheem Sterling,25,England,88,90,Manchester City,72500000,270000,Right,Striker
+234568,Gedson Carvalho Fernandes,21,Portugal,75,84,Tottenham Hotspur,10000000,50000,Right,Midfielder
+190717,Michail Antonio,30,England,78,78,West Ham United,10000000,46000,Right,Striker
+211117,Dele Alli,24,England,83,87,Tottenham Hotspur,34000000,105000,Right,Midfielder
+220523,Yerry Mina,25,Colombia,78,80,Everton,11500000,66000,Right,Defender
+205988,Luke Shaw,24,England,81,83,Manchester United,19000000,97000,Left,Defender
+230666,Gabriel Fernando de Jesus,23,Brazil,83,87,Manchester City,34500000,150000,Right,Striker
+220710,Harry Wilson,23,Wales,77,83,Liverpool,12000000,66000,Left,Midfielder
+237238,Scott McTominay,23,Scotland,79,84,Manchester United,15500000,85000,Right,Midfielder
+222509,Daniel Ceballos Fernández,23,Spain,80,85,Arsenal,19500000,76000,Right,Midfielder
+226226,Giovani Lo Celso,24,Argentina,82,87,Tottenham Hotspur,29000000,95000,Left,Midfielder
+243282,Dwight McNeil,20,England,78,86,Burnley,15500000,41000,Left,Midfielder
+216393,Youri Tielemans,23,Belgium,81,85,Leicester City,23000000,82000,Right,Midfielder
+232080,Jack Harrison,23,England,74,80,Leeds United,7500000,62000,Left,Midfielder
+186156,Luke Ayling,28,England,75,75,Leeds United,5500000,74000,Right,Defender
+231866,Rodrigo Hernández Cascante,24,Spain,85,88,Manchester City,44000000,145000,Right,Midfielder
+201942,Roberto Firmino Barbosa de Oliveira,28,Brazil,87,87,Liverpool,52000000,190000,Right,Striker
+231292,Jamal Lewis,22,Northern Ireland,74,84,Newcastle United,8000000,26000,Left,Defender
+215914,N'Golo Kanté,29,France,88,88,Chelsea,51000000,190000,Right,Midfielder
+214947,Jean-Philippe Gbamin,24,Ivory Coast,78,83,Everton,12500000,59000,Right,Midfielder
+198717,Wilfried Zaha,27,Ivory Coast,83,83,Crystal Palace,27000000,82000,Right,Striker
+211784,Neal Maupay,23,France,77,81,Brighton & Hove Albion,12000000,52000,Right,Striker
+228151,Josh Cullen,24,Republic of Ireland,71,77,West Ham United,3200000,21000,Right,Midfielder
+204311,Kurt Zouma,25,France,80,83,Chelsea,16500000,82000,Right,Defender
+227813,Oleksandr Zinchenko,23,Ukraine,80,85,Manchester City,17500000,96000,Left,Defender
+221660,Victor Lindelöf,25,Sweden,80,84,Manchester United,17000000,100000,Right,Defender
+225632,Oliver Burke,23,Scotland,67,72,Sheffield United,1000000,11000,Right,Striker
+221743,Hélder Wander Sousa Azevedo Costa,26,Portugal,73,74,Leeds United,4700000,66000,Left,Midfielder
+235794,Eberechi Eze,22,England,75,83,Crystal Palace,10000000,40000,Right,Midfielder
+239837,Alexis Mac Allister,21,Argentina,75,85,Brighton & Hove Albion,11000000,36000,Right,Midfielder
+227174,Matty Cash,22,England,75,82,Aston Villa,8500000,38000,Right,Defender
+237560,Moussa Djenepo,22,Mali,75,83,Southampton,10000000,40000,Right,Midfielder
+212602,Diego Javier Llorente Ríos,26,Spain,76,79,Leeds United,8500000,74000,Right,Defender
+208920,Nathan Aké,25,Netherlands,79,83,Manchester City,14500000,100000,Left,Defender
+221697,Ollie Watkins,24,England,76,81,Aston Villa,10500000,49000,Right,Striker
+164240,Thiago Emiliano da Silva,35,Brazil,85,85,Chelsea,11500000,93000,Right,Defender
+228815,Tyler Roberts,21,Wales,70,81,Leeds United,3100000,33000,Right,Midfielder
+225508,Eric Bailly,26,Ivory Coast,79,82,Manchester United,14000000,100000,Right,Defender
+170368,Erik Lamela,28,Argentina,80,80,Tottenham Hotspur,15000000,98000,Left,Midfielder
+242964,Anthony Gordon,19,England,65,83,Everton,1200000,11000,Right,Striker
+211575,André Filipe Tavares Gomes,26,Portugal,79,80,Everton,14500000,83000,Right,Midfielder
+246159,Ethan Laird,18,England,66,83,Manchester United,1200000,7000,Right,Defender
+204884,Benjamin Mendy,25,France,81,84,Manchester City,19500000,115000,Left,Defender
+181291,Georginio Wijnaldum,29,Netherlands,85,85,Liverpool,37000000,150000,Right,Midfielder
+206585,Kepa Arrizabalaga,25,Spain,82,86,Chelsea,21000000,76000,Right,Goalkeeper
+176635,Mesut Özil,31,Germany,82,82,Arsenal,19500000,100000,Left,Midfielder
+259031,Liam Delap,17,England,61,82,Manchester City,550000,3000,Right,Striker
+212218,Aymeric Laporte,26,France,87,90,Manchester City,56000000,200000,Left,Defender
+202335,Eric Dier,26,England,78,82,Tottenham Hotspur,12000000,73000,Right,Defender
+224263,Jonjoe Kenny,23,England,76,83,Everton,9500000,52000,Right,Defender
+226456,Pablo Fornals Malla,24,Spain,79,83,West Ham United,16500000,41000,Right,Midfielder
+213666,Ruben Loftus-Cheek,24,England,78,84,Chelsea,14000000,70000,Right,Midfielder
+232270,Timothy Fosu-Mensah,22,Netherlands,73,81,Manchester United,5500000,55000,Right,Defender
+223959,Lucas Torreira,24,Uruguay,81,85,Arsenal,21000000,74000,Right,Midfielder
+220793,Davinson Sánchez,24,Colombia,81,84,Tottenham Hotspur,20000000,79000,Right,Defender
+192955,Mateusz Klich,30,Poland,73,73,Leeds United,3700000,66000,Right,Midfielder
+237161,Sean Longstaff,22,England,73,83,Newcastle United,6500000,26000,Right,Midfielder
+231436,Grady Diangana,22,England,73,84,West Bromwich Albion,7000000,50000,Left,Midfielder
+180403,Willian Borges da Silva,31,Brazil,82,82,Arsenal,19500000,110000,Right,Striker
+209297,Frederico de Paula Santos,27,Brazil,81,83,Manchester United,19000000,115000,Left,Midfielder
+210514,João Pedro Cavaco Cancelo,26,Portugal,83,86,Manchester City,28000000,140000,Right,Defender
+231485,Axel Tuanzebe,22,England,73,81,Manchester United,5500000,55000,Right,Defender
+204935,Jordan Pickford,26,England,81,84,Everton,16000000,70000,Left,Goalkeeper
+242752,Nathan Ferguson,19,England,69,82,Crystal Palace,1800000,11000,Right,Defender
+212831,Alisson Ramses Becker,27,Brazil,90,91,Liverpool,62500000,160000,Right,Goalkeeper
+207421,Leandro Trossard,25,Belgium,78,81,Brighton & Hove Albion,13000000,55000,Right,Midfielder
+188377,Kyle Walker,30,England,85,85,Manchester City,30500000,170000,Right,Defender
+153079,Sergio Agüero,32,Argentina,89,89,Manchester City,53000000,300000,Right,Striker
+195859,Danny Ings,27,England,80,80,Southampton,16000000,70000,Right,Striker
+228414,Matheus Fellipe Costa Pereira,24,Brazil,76,81,West Bromwich Albion,10500000,61000,Left,Midfielder
+200949,Lucas Rodrigues M. Silva,27,Brazil,83,83,Tottenham Hotspur,27000000,120000,Right,Midfielder
+233934,Aaron Ramsdale,22,England,75,83,Sheffield United,7500000,20000,Right,Goalkeeper
+206006,Ezgjan Alioski,28,North Macedonia,73,73,Leeds United,3400000,63000,Left,Midfielder
+244591,Jayden Bogle,19,England,72,83,Sheffield United,4700000,12000,Right,Defender
+232099,Marko Grujić,24,Serbia,75,81,Liverpool,9000000,58000,Right,Midfielder
+204485,Riyad Mahrez,29,Algeria,85,85,Manchester City,37500000,210000,Left,Striker
+236499,Douglas Luiz Soares de Paulo,22,Brazil,75,83,Aston Villa,9000000,38000,Right,Midfielder
+193301,Alexandre Lacazette,29,France,83,83,Arsenal,26000000,125000,Right,Striker
+202811,Emiliano Martínez,27,Argentina,78,81,Aston Villa,9000000,43000,Right,Goalkeeper
+193080,David De Gea Quintana,29,Spain,86,86,Manchester United,31500000,150000,Right,Goalkeeper
+227678,Ezri Konsa,22,England,72,83,Aston Villa,4900000,29000,Right,Defender
+222400,Harry Winks,24,England,79,84,Tottenham Hotspur,15500000,69000,Right,Midfielder
+196978,Callum Wilson,28,England,78,78,Newcastle United,10500000,48000,Right,Striker
+242453,Sepp van den Berg,18,Netherlands,65,82,Liverpool,1000000,5000,Right,Defender
+203570,Stuart Dallas,29,Northern Ireland,73,73,Leeds United,3300000,63000,Right,Defender
+246053,Joe Gelhardt,18,England,61,81,Leeds United,525000,6000,Left,Striker
+199189,Ross Barkley,26,England,78,81,Aston Villa,12500000,58000,Right,Midfielder
+213135,Divock Origi,25,Belgium,77,82,Liverpool,12000000,79000,Right,Striker
+220196,David Brooks,22,Wales,76,83,Bournemouth,11000000,13000,Left,Midfielder
+205693,Sébastien Haller,26,France,81,83,West Ham United,22000000,58000,Right,Striker
+234777,Zack Steffen,25,United States,76,82,Manchester City,8000000,64000,Right,Goalkeeper
+207494,Jesse Lingard,27,England,77,77,Manchester United,9500000,93000,Right,Midfielder
+213655,Alex Iwobi,24,Nigeria,77,81,Everton,11500000,61000,Right,Midfielder
+199503,Granit Xhaka,27,Switzerland,80,81,Arsenal,15000000,80000,Left,Midfielder
+225024,Mason Holgate,23,England,77,81,Everton,10500000,55000,Right,Defender
+207410,Mateo Kovačić,26,Croatia,83,86,Chelsea,31500000,120000,Right,Midfielder
+231633,Issa Diop,23,France,77,84,West Ham United,11500000,31000,Right,Defender
+236480,Yves Bissouma,23,Mali,75,80,Brighton & Hove Albion,9000000,42000,Right,Midfielder
+223334,Joelinton Apolinário de Lira,23,Brazil,75,81,Newcastle United,9500000,34000,Right,Striker
+206654,Pablo Marí Villar,26,Spain,75,78,Arsenal,7500000,57000,Left,Defender
+222562,Rúnar Alex Rúnarsson,25,Iceland,70,75,Arsenal,1800000,25000,Right,Goalkeeper
+210257,Ederson Santana de Moraes,26,Brazil,88,91,Manchester City,53500000,195000,Left,Goalkeeper
+205569,James Ward-Prowse,25,England,79,83,Southampton,16000000,58000,Right,Midfielder
+135507,Fernando Luiz Rosa,35,Brazil,84,84,Manchester City,9500000,110000,Right,Defender
+211454,Mohamed Elneny,27,Egypt,76,77,Arsenal,8000000,60000,Right,Midfielder
+208450,Andreas Hugo Hoelgebaum Pereira,24,Brazil,75,78,Manchester United,8500000,72000,Right,Midfielder
+220971,Naby Keïta,25,Guinea,81,85,Liverpool,22500000,96000,Right,Midfielder
+207807,Ryan Fraser,26,Scotland,79,80,Newcastle United,15000000,47000,Right,Midfielder
+247649,Jarrad Branthwaite,18,England,60,82,Everton,450000,3000,Left,Defender
+238216,Conor Gallagher,20,England,70,83,West Bromwich Albion,3400000,29000,Right,Midfielder
+230005,Tom Davies,22,England,75,80,Everton,9000000,55000,Right,Midfielder
+192563,Bernd Leno,28,Germany,85,87,Arsenal,33500000,105000,Right,Goalkeeper
+203574,John Stones,26,England,80,83,Manchester City,16500000,110000,Right,Defender
+207948,Bertrand Traoré,24,Burkina Faso,76,79,Aston Villa,10000000,49000,Left,Striker
+213661,Andreas Christensen,24,Denmark,79,84,Chelsea,15000000,69000,Right,Defender
+164859,Theo Walcott,31,England,76,76,Everton,7000000,66000,Right,Midfielder
+184087,Toby Alderweireld,31,Belgium,85,85,Tottenham Hotspur,28500000,130000,Right,Defender
+242265,Michael Obafemi,19,Republic of Ireland,69,81,Southampton,1800000,15000,Right,Striker
+191202,Nemanja Matić,31,Serbia,80,80,Manchester United,11000000,105000,Left,Midfielder
+247463,Folarin Balogun,18,England,60,80,Arsenal,425000,4000,Right,Striker
+236529,Steven Alzate,21,Colombia,68,79,Brighton & Hove Albion,1500000,15000,Right,Midfielder
+222104,Tosin Adarabioyo,22,England,70,81,Manchester City,2800000,40000,Right,Defender
+183394,Moussa Sissoko,30,France,79,79,Tottenham Hotspur,11500000,89000,Right,Midfielder
+198784,Alex Oxlade-Chamberlain,26,England,79,80,Liverpool,14500000,89000,Right,Midfielder
+236248,Ben Woodburn,20,Wales,66,81,Liverpool,1400000,15000,Right,Midfielder
+207599,Michael Keane,27,England,78,79,Everton,10500000,69000,Right,Defender
+215565,Matt Miazga,24,United States,71,77,Chelsea,2900000,35000,Right,Defender
+180216,Séamus Coleman,31,Republic of Ireland,79,79,Everton,9000000,76000,Right,Defender
+197853,Serge Aurier,27,Ivory Coast,80,80,Tottenham Hotspur,13000000,86000,Right,Defender
+193348,Xherdan Shaqiri,28,Switzerland,81,81,Liverpool,18000000,105000,Left,Midfielder
+215590,Ayoze Pérez Gutiérrez,26,Spain,79,79,Leicester City,13500000,90000,Right,Striker
+201995,Felipe Anderson Pereira Gomes,27,Brazil,81,81,West Ham United,18500000,53000,Right,Midfielder
+210736,Emerson Palmieri dos Santos,25,Italy,79,82,Chelsea,14000000,77000,Left,Defender
+202477,Gerard Deulofeu Lázaro,26,Spain,80,81,Watford,17500000,25000,Right,Midfielder
+228295,Rob Holding,24,England,75,82,Arsenal,8500000,49000,Right,Defender
+256831,Dennis Cirkin,18,England,61,83,Tottenham Hotspur,525000,3000,Left,Defender
+189881,Chris Smalling,30,England,79,79,Manchester United,10000000,100000,Right,Defender
+189456,Liam Cooper,28,Scotland,73,74,Leeds United,3900000,63000,Left,Defender
+184432,César Azpilicueta Tanco,30,Spain,84,84,Chelsea,24500000,120000,Right,Defender
+246863,Felix Nmecha,19,England,62,82,Manchester City,650000,9000,Right,Midfielder
+198861,Nampalys Mendy,28,France,75,75,Leicester City,6000000,60000,Right,Midfielder
+203841,Nick Pope,28,England,82,83,Burnley,18500000,59000,Right,Goalkeeper
+179591,Pablo Hernández Dominguez,35,Spain,75,75,Leeds United,2900000,57000,Right,Midfielder
+226093,Che Adams,23,England,74,79,Southampton,7500000,41000,Right,Striker
+184484,Gylfi Sigurðsson,30,Iceland,79,79,Everton,12000000,83000,Right,Midfielder
+236316,Yan Valery,21,France,72,82,Southampton,4600000,23000,Right,Defender
+245715,Jamie Shackleton,20,England,65,80,Leeds United,1200000,15000,Right,Midfielder
+204529,Michy Batshuayi,26,Belgium,78,81,Crystal Palace,13000000,60000,Right,Striker
+220031,Oliver McBurnie,24,Scotland,75,79,Sheffield United,9000000,31000,Right,Striker
+232381,Wesley Moraes Ferreira da Silva,23,Brazil,76,81,Aston Villa,10500000,49000,Right,Striker
+212722,DeAndre Yedlin,26,United States,76,77,Newcastle United,8000000,34000,Right,Defender
+230977,Miguel Almirón,26,Paraguay,78,79,Newcastle United,12000000,43000,Left,Midfielder
+185422,Joshua King,28,Norway,77,77,Bournemouth,9000000,19000,Right,Striker
+237286,Aaron Connolly,20,Republic of Ireland,70,77,Brighton & Hove Albion,2600000,23000,Right,Striker
+205923,Ben Davies,27,Wales,80,81,Tottenham Hotspur,14500000,86000,Left,Defender
+179944,David Luiz Moreira Marinho,33,Brazil,80,80,Arsenal,7000000,80000,Right,Defender
+242908,Jack Clarke,19,England,67,81,Tottenham Hotspur,1600000,13000,Right,Midfielder
+221982,Patrick Roberts,23,England,73,81,Manchester City,6000000,71000,Left,Striker
+211381,Sofiane Boufal,26,Morocco,75,75,Southampton,7000000,46000,Right,Midfielder
+167948,Hugo Lloris,33,France,87,87,Tottenham Hotspur,27000000,125000,Left,Goalkeeper
+252793,Taylor Harwood-Bellis,18,England,61,82,Manchester City,525000,4000,Right,Defender
+205525,Bernard Anício Caldeira Duarte,27,Brazil,78,78,Everton,11000000,75000,Right,Midfielder
+235450,Domingos Quina,20,Portugal,68,81,Watford,1700000,6000,Right,Midfielder
+220570,Jan Bednarek,24,Poland,77,83,Southampton,11000000,41000,Right,Defender
+231512,Lloyd Kelly,21,England,69,80,Bournemouth,1600000,5000,Left,Defender
+189157,Yannick Bolasie,31,DR Congo,75,75,Everton,6000000,68000,Right,Striker
+225719,Kelechi Iheanacho,23,Nigeria,74,80,Leicester City,8000000,56000,Left,Striker
+212300,Jack O'Connell,26,England,78,82,Sheffield United,12000000,36000,Left,Defender
+192638,Marcos Alonso Mendoza,29,Spain,81,81,Chelsea,14500000,96000,Left,Defender
+217731,Sandro Ramírez Castillo,24,Spain,73,77,Everton,5500000,51000,Right,Striker
+236276,Arnaut Danjuma Groeneveld,23,Netherlands,75,80,Bournemouth,9000000,14000,Right,Striker
+178088,Juan Manuel Mata García,32,Spain,79,79,Manchester United,10000000,110000,Left,Midfielder
+212100,Max Lowe,23,England,72,81,Sheffield United,4300000,19000,Left,Defender
+243019,Tudor Băluță,21,Romania,71,82,Brighton & Hove Albion,3800000,21000,Right,Midfielder
+251198,Ellis Simms,19,England,63,81,Everton,800000,9000,Right,Striker
+194957,Phil Jones,28,England,75,75,Manchester United,6000000,79000,Right,Defender
+212419,Tyrone Mings,27,England,75,78,Aston Villa,7000000,44000,Left,Defender
+244269,Filip Benković,22,Croatia,74,81,Leicester City,7000000,46000,Right,Defender
+218659,Matt Targett,24,England,76,81,Aston Villa,9000000,40000,Left,Defender
+185195,Odion Ighalo,31,Nigeria,77,77,Manchester United,8000000,100000,Right,Striker
+138412,James Milner,34,England,80,80,Liverpool,7000000,94000,Right,Midfielder
+184826,Adrien S. Perruchet Silva,31,Portugal,76,76,Leicester City,6500000,66000,Right,Midfielder
+205989,Calum Chambers,25,England,75,80,Arsenal,8000000,55000,Right,Defender
+228174,Cameron Carter-Vickers,22,United States,68,80,Tottenham Hotspur,1500000,22000,Right,Defender
+220633,Demarai Gray,24,England,75,79,Leicester City,8500000,55000,Right,Midfielder
+245226,Gonçalo Bento Soares Cardoso,19,Portugal,66,78,West Ham United,1000000,5000,Left,Defender
+210881,John McGinn,25,Scotland,76,81,Aston Villa,10000000,49000,Left,Midfielder
+207993,Sead Kolašinac,27,Bosnia Herzegovina,78,79,Arsenal,10500000,69000,Left,Defender
+186942,İlkay Gündoğan,29,Germany,83,83,Manchester City,25000000,160000,Right,Midfielder
+228332,Hamza Choudhury,22,England,74,79,Leicester City,7000000,46000,Right,Midfielder
+197061,Joel Matip,28,Cameroon,83,84,Liverpool,25500000,115000,Right,Defender
+224294,Lewis Cook,23,England,75,80,Bournemouth,9000000,13000,Right,Midfielder
+254588,Billy Koumetio,17,France,56,76,Liverpool,170000,500,Left,Defender
+178372,Branislav Ivanović,36,Serbia,80,80,West Bromwich Albion,3000000,61000,Right,Defender
+178509,Olivier Giroud,33,France,79,79,Chelsea,8000000,96000,Left,Striker
+254529,Cody Drameh,18,England,61,81,Leeds United,475000,4000,Right,Defender
+220407,Martin Dúbravka,31,Slovakia,83,83,Newcastle United,16500000,47000,Right,Goalkeeper
+227927,Kyle Walker-Peters,23,England,75,80,Southampton,8000000,36000,Right,Defender
+212150,Max Meyer,24,Germany,76,79,Crystal Palace,10000000,42000,Right,Midfielder
+212491,Arthur Masuaku,26,DR Congo,77,79,West Ham United,9500000,37000,Left,Defender
+180818,David McGoldrick,32,Republic of Ireland,74,74,Sheffield United,4500000,33000,Right,Striker
+246685,Leif Davis,20,England,64,77,Leeds United,800000,12000,Left,Defender
+202695,James Tarkowski,27,England,80,81,Burnley,15000000,59000,Right,Defender
+150724,Joe Hart,33,England,75,75,Tottenham Hotspur,3600000,50000,Right,Goalkeeper
+200855,George Baldock,27,England,77,78,Sheffield United,9000000,33000,Right,Defender
+228813,Aleix García Serrano,23,Spain,73,80,Manchester City,5500000,65000,Right,Midfielder
+199652,Dennis Praet,26,Belgium,76,78,Leicester City,9000000,66000,Right,Midfielder
+189461,Jack Wilshere,28,England,76,76,West Ham United,7500000,39000,Left,Midfielder
+212883,Daniel Amartey,25,Ghana,73,76,Leicester City,4400000,47000,Right,Defender
+188988,Manuel Lanzini,27,Argentina,78,79,West Ham United,12000000,43000,Right,Midfielder
+206115,Isaac Hayden,25,England,77,80,Newcastle United,10000000,35000,Right,Midfielder
+172962,Victor Moses,29,Nigeria,78,78,Chelsea,10000000,84000,Right,Midfielder
+210047,Fabian Schär,28,Switzerland,78,80,Newcastle United,10500000,41000,Right,Defender
+203487,Jamaal Lascelles,26,England,77,81,Newcastle United,10000000,37000,Right,Defender
+200478,Jeff Hendrick,28,Republic of Ireland,75,75,Newcastle United,6500000,37000,Right,Midfielder
+220714,Philip Billing,24,Denmark,75,81,Bournemouth,9000000,13000,Left,Midfielder
+169595,Danny Rose,29,England,79,79,Tottenham Hotspur,10500000,85000,Left,Defender
+200746,John Lundstram,26,England,76,78,Sheffield United,9000000,34000,Right,Midfielder
+233050,Matt Smith,20,Wales,66,78,Manchester City,1100000,20000,Right,Midfielder
+234679,Philippe Sandler,23,Netherlands,69,77,Manchester City,1400000,34000,Right,Defender
+202541,Jose Ignacio Peleteiro Ramallo,29,Spain,72,72,Aston Villa,3000000,41000,Left,Striker
+243640,Ethan Galbraith,19,Northern Ireland,63,81,Manchester United,750000,8000,Right,Midfielder
+189615,Aaron Cresswell,30,England,77,77,West Ham United,7000000,37000,Left,Defender
+192546,Enda Stevens,29,Republic of Ireland,78,78,Sheffield United,8500000,37000,Left,Defender
+226078,Mahmoud Hassan,25,Egypt,75,76,Aston Villa,8000000,50000,Right,Striker
+199767,Marco van Ginkel,27,Netherlands,75,76,Chelsea,7500000,67000,Right,Midfielder
+192227,Shkodran Mustafi,28,Germany,78,80,Arsenal,10500000,72000,Right,Defender
+210972,Javier Manquillo Gaitán,26,Spain,76,79,Newcastle United,8500000,34000,Right,Defender
+204936,John Egan,27,Republic of Ireland,78,80,Sheffield United,11000000,36000,Right,Defender
+163587,Kasper Schmeichel,33,Denmark,84,84,Leicester City,17000000,90000,Right,Goalkeeper
+219536,Ignacio Pussetto,24,Argentina,74,80,Watford,8000000,16000,Right,Striker
+257793,Rico Richards,16,England,54,80,West Bromwich Albion,150000,1000,Left,Midfielder
+206594,Solly March,25,England,75,76,Brighton & Hove Albion,8000000,46000,Left,Defender
+186132,Danny Drinkwater,30,England,73,73,Chelsea,3700000,57000,Right,Midfielder
+221618,Lys Mousset,24,France,74,78,Sheffield United,7500000,29000,Right,Striker
+202849,Jannik Vestergaard,27,Denmark,77,78,Southampton,9000000,48000,Right,Defender
+233201,Chris Mepham,22,Wales,73,81,Bournemouth,5500000,10000,Right,Defender
+227222,Frédéric Guilbert,25,France,76,81,Aston Villa,9000000,44000,Right,Defender
+217699,Islam Slimani,32,Algeria,77,77,Leicester City,7000000,77000,Right,Striker
+207616,Adam Webster,25,England,75,79,Brighton & Hove Albion,7500000,42000,Right,Defender
+213991,Jefferson Lerma,25,Colombia,77,80,Bournemouth,10000000,14000,Right,Midfielder
+155946,Robert Snodgrass,32,Scotland,77,77,West Ham United,7000000,40000,Left,Midfielder
+172879,Sokratis Papastathopoulos,32,Greece,79,79,Arsenal,8000000,76000,Right,Defender
+241842,Ben Johnson,20,England,62,78,West Ham United,625000,4000,Right,Defender
+245903,Harvey White,18,England,60,80,Tottenham Hotspur,400000,3000,Left,Midfielder
+238958,Rekeem Harper,20,England,67,79,West Bromwich Albion,1300000,18000,Right,Midfielder
+192991,Cenk Tosun,29,Turkey,75,75,Everton,6500000,71000,Right,Striker
+183855,Angelo Ogbonna,32,Italy,77,77,West Ham United,5500000,37000,Left,Defender
+206518,Callum Robinson,25,Republic of Ireland,72,76,West Bromwich Albion,4100000,52000,Right,Striker
+225539,Dominic Solanke,22,England,69,77,Bournemouth,1600000,7000,Right,Striker
+209620,Abdul Rahman Baba,25,Ghana,75,78,Chelsea,7500000,58000,Left,Defender
+205186,Paulo Gazzaniga,28,Argentina,77,80,Tottenham Hotspur,8000000,59000,Right,Goalkeeper
+201118,Cédric Ricardo Alves Soares,28,Portugal,76,76,Arsenal,6500000,63000,Right,Defender
+237704,João Manuel Neves Virgínia,20,Portugal,63,76,Everton,575000,6000,Left,Goalkeeper
+230988,Filip Krovinović,24,Croatia,73,78,West Bromwich Albion,5500000,50000,Right,Midfielder
+205346,Ryan Fredericks,27,England,76,77,West Ham United,7500000,34000,Right,Defender
+169588,Jonny Evans,32,Northern Ireland,80,80,Leicester City,9500000,80000,Right,Defender
+240947,Tyrick Mitchell,20,England,64,77,Crystal Palace,800000,7000,Left,Defender
+199915,Lewis Dunk,28,England,78,80,Brighton & Hove Albion,10500000,55000,Right,Defender
+201862,Marcos Rojo,30,Argentina,75,75,Manchester United,5500000,75000,Left,Defender
+240926,Nathaniel Phillips,23,England,68,75,Liverpool,1100000,22000,Right,Defender
+182836,Andy Carroll,31,England,74,74,Newcastle United,5000000,36000,Left,Striker
+210985,Ben Osborn,25,England,74,77,Sheffield United,6000000,26000,Left,Defender
+207650,Emil Krafth,25,Sweden,74,77,Newcastle United,6000000,29000,Right,Defender
+200765,Muhamed Bešić,27,Bosnia Herzegovina,70,70,Everton,1800000,36000,Right,Midfielder
+200443,Barry Douglas,30,Scotland,72,72,Leeds United,2500000,53000,Left,Defender
+247351,Mateusz Bogusz,18,Poland,60,77,Leeds United,425000,4000,Right,Midfielder
+241651,Viktor Gyökeres,22,Sweden,67,78,Brighton & Hove Albion,1300000,15000,Right,Midfielder
+208004,Joël Veltman,28,Netherlands,77,77,Brighton & Hove Albion,8000000,52000,Right,Defender
+183427,Fabian Delph,30,England,77,77,Everton,7500000,64000,Left,Midfielder
+239360,Pascal Struijk,20,Netherlands,62,75,Leeds United,550000,10000,Left,Defender
+189165,Jonjo Shelvey,28,England,77,77,Newcastle United,9000000,42000,Right,Midfielder
+213407,Matt Macey,25,England,65,70,Arsenal,525000,12000,Right,Goalkeeper
+235405,Dara O'Shea,21,Republic of Ireland,68,78,West Bromwich Albion,1300000,18000,Right,Defender
+231406,Kyle Edwards,22,England,68,75,West Bromwich Albion,1300000,24000,Right,Midfielder
+198719,Nathan Redmond,26,England,78,79,Southampton,12000000,55000,Right,Midfielder
+186190,Patrick van Aanholt,29,Netherlands,77,77,Crystal Palace,7500000,50000,Left,Defender
+240913,Caoimhin Kelleher,21,Republic of Ireland,61,75,Liverpool,475000,6000,Right,Goalkeeper
+204233,Charly Musonda,23,Belgium,73,79,Chelsea,5500000,50000,Right,Midfielder
+199027,Jack Robinson,26,England,70,71,Sheffield United,1800000,17000,Left,Defender
+206516,Will Hughes,25,England,76,79,Watford,9500000,18000,Left,Midfielder
+205601,Christian Atsu,28,Ghana,74,74,Newcastle United,5500000,34000,Left,Midfielder
+237328,Nathan Tella,20,England,61,74,Southampton,475000,7000,Right,Striker
+247623,Jeremy Ngakia,19,England,65,78,Watford,925000,2000,Right,Defender
+231743,Keinan Davis,22,England,68,77,Aston Villa,1400000,19000,Left,Striker
+228768,Alexandre Costa Silva,23,Portugal,65,73,West Ham United,800000,9000,Right,Striker
+228229,Fabián Balbuena,28,Paraguay,75,76,West Ham United,6500000,34000,Right,Defender
+152879,Mark Noble,33,England,75,75,West Ham United,3900000,36000,Right,Midfielder
+246137,Kayne Ramsay,19,England,62,77,Southampton,600000,4000,Right,Defender
+216325,Angus Gunn,24,England,74,78,Southampton,5500000,26000,Right,Goalkeeper
+190765,Pascal Groß,29,Germany,77,77,Brighton & Hove Albion,8500000,57000,Right,Midfielder
+173373,Sergio Romero,33,Argentina,80,80,Manchester United,8000000,85000,Right,Goalkeeper
+180819,Adam Lallana,32,England,77,77,Brighton & Hove Albion,6500000,54000,Right,Midfielder
+216433,Anwar El Ghazi,25,Netherlands,75,78,Aston Villa,8500000,50000,Right,Striker
+222994,Marvelous Nakamba,26,Zimbabwe,75,78,Aston Villa,7500000,44000,Left,Midfielder
+177644,Francisco Casilla Cortés,33,Spain,74,74,Leeds United,3000000,53000,Right,Goalkeeper
+194794,Andriy Yarmolenko,30,Ukraine,77,77,West Ham United,8500000,40000,Left,Midfielder
+232284,Mark Travers,21,Republic of Ireland,66,79,Bournemouth,1000000,2000,Right,Goalkeeper
+186395,Matt Ritchie,30,Scotland,77,77,Newcastle United,8500000,40000,Left,Midfielder
+164835,Łukasz Fabiański,35,Poland,81,81,West Ham United,4800000,26000,Right,Goalkeeper
+232805,Bernardo Fernandes,25,Brazil,74,77,Brighton & Hove Albion,6000000,39000,Left,Defender
+192123,Chris Wood,28,New Zealand,78,78,Burnley,10500000,62000,Right,Striker
+199005,Mathew Ryan,28,Australia,80,82,Brighton & Hove Albion,13000000,53000,Right,Goalkeeper
+221269,Jaïro Riedewald,23,Netherlands,71,74,Crystal Palace,2700000,24000,Left,Defender
+210828,Björn Engels,25,Belgium,74,79,Aston Villa,6500000,39000,Right,Defender
+194911,Adrián San Miguel Castillo,33,Spain,76,76,Liverpool,4200000,52000,Right,Goalkeeper
+236325,Jake Vokins,20,England,62,76,Southampton,625000,6000,Left,Defender
+210635,Kortney Hause,24,England,72,78,Aston Villa,3800000,29000,Left,Defender
+252794,Adrián Bernabé García,19,Spain,61,77,Manchester City,550000,9000,Left,Midfielder
+229091,Bailey Peacock-Farrell,23,Northern Ireland,69,77,Burnley,1200000,14000,Left,Goalkeeper
+247622,Bernardo Costa da Rosa,19,Brazil,55,69,West Ham United,170000,3000,Right,Midfielder
+215871,Alireza Jahanbakhsh,26,Iran,74,74,Brighton & Hove Albion,6000000,49000,Right,Striker
+189177,John Fleck,28,Scotland,77,77,Sheffield United,9000000,38000,Left,Midfielder
+203399,Ouasim Bouy,27,Netherlands,61,62,Leeds United,250000,13000,Left,Defender
+184111,Christian Benteke,29,Belgium,72,72,Crystal Palace,3100000,39000,Right,Striker
+183285,Mamadou Sakho,30,France,76,76,Crystal Palace,6000000,44000,Left,Defender
+194932,Andros Townsend,28,England,77,77,Crystal Palace,9000000,54000,Left,Midfielder
+238062,Beni Baningime,21,DR Congo,67,77,Everton,1100000,15000,Right,Midfielder
+202282,Stuart Armstrong,28,Scotland,76,76,Southampton,8000000,50000,Right,Midfielder
+216774,Wesley Hoedt,26,Netherlands,75,78,Southampton,7500000,42000,Left,Defender
+243044,Nnamdi Ofoborh,20,Nigeria,65,77,Bournemouth,900000,3000,Right,Midfielder
+221282,Jack Stacey,24,England,73,78,Bournemouth,4700000,10000,Right,Defender
+236344,Jayson Molumby,20,Republic of Ireland,67,79,Brighton & Hove Albion,1300000,13000,Right,Midfielder
+190456,Nathaniel Clyne,28,England,76,76,Liverpool,6500000,67000,Right,Defender
+236239,Alfie Whiteman,21,England,63,74,Tottenham Hotspur,500000,7000,Right,Goalkeeper
+254470,Luke Thomas,19,England,62,78,Leicester City,600000,6000,Left,Defender
+234249,Sam Surridge,21,England,66,75,Bournemouth,1000000,4000,Right,Striker
+189682,Ben Mee,30,England,79,79,Burnley,10000000,56000,Left,Defender
+186143,Oliver Norwood,29,Northern Ireland,77,77,Sheffield United,8500000,38000,Right,Midfielder
+240786,Ali Koiki,20,England,62,74,Burnley,500000,6000,Left,Defender
+225018,Florin Andone,27,Romania,74,75,Brighton & Hove Albion,6500000,49000,Right,Striker
+230561,Jay-Roy Grot,22,Netherlands,64,71,Leeds United,625000,18000,Right,Striker
+199576,Oriol Romeu Vidal,28,Spain,75,75,Southampton,6000000,44000,Right,Midfielder
+163050,Billy Sharp,34,England,73,73,Sheffield United,2100000,30000,Right,Striker
+205897,Nathaniel Chalobah,25,England,74,78,Watford,6500000,15000,Right,Midfielder
+222513,Rolando Aarons,24,England,70,74,Newcastle United,2300000,18000,Left,Midfielder
+183125,Troy Deeney,32,England,76,76,Watford,6000000,21000,Right,Striker
+238389,Ben Wilmot,20,England,66,80,Watford,1300000,4000,Right,Defender
+246874,Robbie Gotts,20,England,61,76,Leeds United,550000,10000,Right,Midfielder
+206085,Jacob Murphy,25,England,71,73,Newcastle United,2900000,25000,Right,Striker
+216791,Matthew Pennington,25,England,67,72,Everton,900000,19000,Right,Defender
+169705,Ryan Bertrand,30,England,78,78,Southampton,8000000,50000,Left,Defender
+233957,Sam Field,22,England,67,78,West Bromwich Albion,1200000,19000,Left,Midfielder
+136113,Wes Morgan,36,Jamaica,73,73,Leicester City,800000,35000,Right,Defender
+163155,Ben Foster,37,England,79,79,Watford,1300000,12000,Left,Goalkeeper
+186146,Danny Welbeck,29,England,74,74,Watford,5500000,19000,Right,Striker
+222634,Isaac Success,24,Nigeria,71,77,Watford,3300000,12000,Right,Striker
+189280,Ashley Westwood,30,England,78,78,Burnley,8500000,50000,Right,Midfielder
+198032,Dan Burn,28,England,75,76,Brighton & Hove Albion,6500000,46000,Left,Defender
+218660,Josh Sims,23,England,70,78,Southampton,2600000,23000,Left,Midfielder
+207952,Semi Ajayi,26,Nigeria,73,76,West Bromwich Albion,4400000,52000,Right,Defender
+223877,Darnell Furlong,24,England,71,76,West Bromwich Albion,2800000,35000,Right,Defender
+246923,Jacob Ramsey,19,England,55,75,Aston Villa,170000,4000,Right,Midfielder
+213750,Ken Sema,26,Sweden,73,73,Watford,4300000,15000,Left,Midfielder
+245906,Malachi Fagan-Walcott,18,England,60,83,Tottenham Hotspur,450000,3000,Right,Defender
+193849,Conor Hourihane,29,Republic of Ireland,75,75,Aston Villa,6500000,50000,Left,Midfielder
+197756,Jordan Ayew,28,Ghana,77,77,Crystal Palace,9000000,59000,Right,Striker
+184274,Chris Basham,31,England,77,77,Sheffield United,6500000,33000,Right,Defender
+243767,Gavin Kilkenny,20,Republic of Ireland,59,74,Bournemouth,350000,2000,Right,Midfielder
+220932,Lovre Kalinić,30,Croatia,75,75,Aston Villa,4500000,36000,Left,Goalkeeper
+206304,Luka Milivojević,29,Serbia,79,79,Crystal Palace,11000000,58000,Right,Midfielder
+210372,Rachid Ghezzal,28,Algeria,73,73,Leicester City,4000000,60000,Left,Striker
+206561,Christian Walton,24,England,72,80,Brighton & Hove Albion,3500000,22000,Left,Goalkeeper
+220659,Josh Brownhill,24,England,72,78,Burnley,4200000,30000,Right,Midfielder
+183130,Marc Albrighton,30,England,76,76,Leicester City,7500000,66000,Right,Midfielder
+241036,George Marsh,21,England,62,74,Tottenham Hotspur,500000,8000,Right,Midfielder
+247764,Kyle John,19,England,62,75,Everton,525000,6000,Right,Defender
+246950,Ryan Astley,18,Wales,59,78,Everton,300000,3000,Right,Defender
+205670,Dwight Gayle,29,England,74,74,Newcastle United,5500000,37000,Right,Striker
+189860,Francisco Femenía Far,29,Spain,76,76,Watford,6500000,18000,Right,Defender
+172203,Fraser Forster,32,England,76,76,Southampton,4700000,36000,Right,Goalkeeper
+139062,Willy Caballero,38,Argentina,75,75,Chelsea,675000,32000,Right,Goalkeeper
+206075,Sam Johnstone,27,England,75,79,West Bromwich Albion,6000000,50000,Right,Goalkeeper
+193910,Adam Forshaw,28,England,70,70,Leeds United,1600000,43000,Right,Midfielder
+204760,Charlie Taylor,26,England,77,78,Burnley,9000000,48000,Left,Defender
+190324,Christian Kabasele,29,Belgium,76,77,Watford,7500000,18000,Right,Defender
+191076,Jóhann Berg Guðmundsson,29,Iceland,77,77,Burnley,8500000,54000,Left,Midfielder
+235458,Cédric Kipré,23,Ivory Coast,68,76,West Bromwich Albion,1200000,22000,Right,Defender
+201988,Federico Fernández,31,Argentina,77,77,Newcastle United,6500000,37000,Right,Defender
+248465,Ian Maatsen,17,Netherlands,58,80,Chelsea,250000,550,Left,Defender
+204355,Paul Dummett,28,Wales,75,76,Newcastle United,6500000,34000,Left,Defender
+243048,Will Dennis,19,England,57,72,Bournemouth,190000,700,Right,Goalkeeper
+172937,Glenn Murray,36,England,74,74,Watford,2000000,14000,Right,Striker
+172553,Jonas Lössl,31,Denmark,73,73,Everton,2600000,40000,Right,Goalkeeper
+245035,Claudio Gomes,19,France,65,78,Manchester City,950000,11000,Right,Midfielder
+193158,Davy Pröpper,28,Netherlands,76,76,Brighton & Hove Albion,7500000,53000,Right,Midfielder
+220414,Diego Rico Salguero,27,Spain,77,78,Bournemouth,9000000,15000,Left,Defender
+245907,Jamie Bowden,18,Republic of Ireland,60,80,Tottenham Hotspur,400000,3000,Right,Midfielder
+238060,Nathan Trott,21,England,61,74,West Ham United,400000,3000,Left,Goalkeeper
+255305,Brandon Pierrick,18,England,59,78,Crystal Palace,325000,3000,Right,Midfielder
+200759,Jeffrey Schlupp,27,Ghana,74,74,Crystal Palace,6000000,43000,Left,Midfielder
+53914,Phil Jagielka,37,England,72,72,Sheffield United,625000,16000,Right,Defender
+257534,Cole Palmer,18,England,56,77,Manchester City,200000,5000,Left,Midfielder
+183465,Jack Rodwell,29,England,67,67,Sheffield United,650000,11000,Right,Defender
+202697,Jack Stephens,26,England,75,79,Southampton,7500000,42000,Right,Defender
+194138,Andre Gray,29,England,74,74,Watford,5500000,19000,Right,Striker
+139313,Christian Fuchs,34,Austria,73,73,Leicester City,1400000,49000,Left,Defender
+235156,Jimmy Dunne,22,Republic of Ireland,67,73,Burnley,950000,13000,Right,Defender
+193331,Karl Darlow,29,England,73,75,Newcastle United,3400000,24000,Right,Goalkeeper
+240981,Max Sanders,21,England,59,73,Brighton & Hove Albion,350000,6000,Right,Midfielder
+192495,Romaine Sawyers,28,Saint Kitts and Nevis,73,73,West Bromwich Albion,4000000,59000,Right,Midfielder
+233047,Joel Latibeaudiere,20,England,64,75,Manchester City,700000,14000,Right,Defender
+231600,Marc Navarro Ceciliano,24,Spain,73,78,Watford,4700000,12000,Right,Defender
+169216,Shane Long,33,Republic of Ireland,74,74,Southampton,3500000,47000,Right,Striker
+195671,Charlie Austin,30,England,72,72,West Bromwich Albion,3000000,55000,Right,Striker
+183256,Henri Saivet,29,Senegal,66,66,Newcastle United,625000,11000,Right,Midfielder
+243817,Elias Sørensen,20,Denmark,59,73,Newcastle United,350000,5000,Right,Striker
+194806,Craig Dawson,30,England,74,74,Watford,4600000,15000,Right,Defender
+186115,Kieran Gibbs,30,England,75,75,West Bromwich Albion,5500000,61000,Left,Defender
+198039,Mark Gillespie,28,England,71,74,Newcastle United,2100000,19000,Right,Goalkeeper
+237683,Nathan Holland,22,England,64,75,West Ham United,775000,8000,Right,Striker
+237825,Nya Kirby,20,England,60,76,Crystal Palace,450000,6000,Right,Midfielder
+248474,Tino Anjorin,17,England,58,80,Chelsea,275000,2000,Right,Midfielder
+182178,Gaetano Berardi,31,Switzerland,70,70,Leeds United,1300000,41000,Right,Defender
+157804,Scott Carson,34,England,70,70,Manchester City,775000,37000,Right,Goalkeeper
+185427,Ørjan Nyland,29,Norway,72,72,Aston Villa,2200000,29000,Right,Goalkeeper
+247507,Paul Glatzel,18,Germany,60,80,Liverpool,425000,5000,Left,Striker
+207998,Danny Ward,27,Wales,74,75,Leicester City,4600000,43000,Right,Goalkeeper
+195086,Dejan Lovren,29,Croatia,80,80,Liverpool,12500000,90000,Right,Defender
+163264,Tom Heaton,34,England,78,78,Aston Villa,4500000,43000,Right,Goalkeeper
+229163,Callum Slattery,21,England,60,73,Southampton,400000,6000,Right,Midfielder
+242946,Oladapo Afolayan,22,England,58,67,West Ham United,200000,6000,Right,Striker
+233048,Tom Dele-Bashiru,19,Nigeria,57,74,Watford,220000,5000,Right,Midfielder
+169697,Darren Randolph,33,Republic of Ireland,75,75,West Ham United,3600000,26000,Right,Goalkeeper
+164468,Gary Cahill,34,England,77,77,Crystal Palace,3300000,48000,Right,Defender
+219411,José Izquierdo,27,Colombia,74,74,Brighton & Hove Albion,6000000,45000,Right,Midfielder
+213414,William Troost-Ekong,26,Nigeria,73,76,Watford,4400000,14000,Right,Defender
+254243,Elliot Anderson,17,Scotland,56,78,Newcastle United,200000,750,Right,Midfielder
+225410,Adam Masina,26,Italy,74,76,Watford,6000000,15000,Left,Defender
+247741,Anthony Glennon,20,England,61,72,Burnley,400000,5000,Left,Defender
+186905,Ashley Barnes,30,England,77,77,Burnley,8500000,56000,Right,Striker
+172723,Asmir Begović,33,Bosnia Herzegovina,75,75,Bournemouth,3600000,11000,Right,Goalkeeper
+183129,Ciaran Clark,30,Republic of Ireland,76,76,Newcastle United,6000000,34000,Left,Defender
+227806,Daniel Barlaser,23,England,66,74,Newcastle United,925000,9000,Right,Midfielder
+215334,Guido Carrillo,29,Argentina,73,73,Southampton,4000000,44000,Right,Striker
+245901,J'Neil Bennett,18,England,61,82,Tottenham Hotspur,575000,4000,Right,Midfielder
+230882,Jack Simpson,23,England,66,75,Bournemouth,900000,3000,Left,Defender
+241435,Khanya Leshabela,19,South Africa,60,76,Leicester City,450000,6000,Right,Midfielder
+201884,Robbie Brady,28,Republic of Ireland,75,75,Burnley,6500000,48000,Left,Midfielder
+189690,Vicente Guaita Panadero,33,Spain,80,80,Crystal Palace,8000000,48000,Right,Goalkeeper
+240867,Ajibola Alese,19,England,56,69,West Ham United,160000,3000,Right,Defender
+255303,Elia Caprile,18,Italy,60,78,Leeds United,350000,1000,Right,Goalkeeper
+247140,Josh Benson,20,England,62,74,Burnley,500000,6000,Right,Midfielder
+198641,Kenneth Zohore,26,Denmark,70,72,West Bromwich Albion,2200000,42000,Left,Striker
+189725,Tom Cleverley,30,England,75,75,Watford,6000000,18000,Right,Midfielder
+245729,Harrison Clarke,18,England,57,76,Arsenal,200000,3000,Right,Defender
+186801,Cheikhou Kouyaté,30,Senegal,77,77,Crystal Palace,7500000,48000,Right,Defender
+182184,Dale Stephens,31,England,75,75,Burnley,5500000,46000,Right,Midfielder
+186116,Henri Lansbury,29,England,69,69,Aston Villa,1000000,25000,Right,Midfielder
+220197,Kean Bryan,23,England,63,73,Sheffield United,550000,5000,Left,Defender
+222922,Jake Hesketh,24,England,66,71,Southampton,850000,12000,Right,Midfielder
+239506,Sam Hughes,23,England,63,72,Leicester City,525000,11000,Right,Defender
+169706,Jack Cork,31,England,77,77,Burnley,6500000,48000,Right,Midfielder
+190885,Adam Smith,29,England,75,75,Bournemouth,5500000,14000,Right,Defender
+224947,Daniel Grimshaw,21,England,58,70,Manchester City,180000,7000,Right,Goalkeeper
+178213,Etienne Capoue,31,France,78,78,Watford,8000000,20000,Right,Midfielder
+169792,Jay Rodriguez,30,England,76,76,Burnley,7500000,53000,Right,Striker
+240863,Conor Coventry,20,Republic of Ireland,59,74,West Ham United,350000,4000,Right,Midfielder
+191005,Ahmed Elmohamady,32,Egypt,71,71,Aston Villa,1500000,29000,Right,Defender
+191089,Connor Wickham,27,England,69,70,Crystal Palace,1200000,25000,Right,Striker
+193182,Wes Foderingham,29,England,71,71,Sheffield United,1700000,17000,Left,Goalkeeper
+246124,Nicolas Tié,18,Ivory Coast,53,73,Chelsea,100000,1000,Right,Goalkeeper
+247350,Oliver Casey,19,England,59,75,Leeds United,300000,6000,Right,Defender
+235119,Faiq Bolkiah,21,Brunei Darussalam,57,66,Leicester City,160000,8000,Right,Midfielder
+219469,Stipe Perica,24,Croatia,71,76,Watford,3200000,12000,Right,Striker
+233441,Tolaji Bola,20,England,57,70,Arsenal,180000,7000,Left,Defender
+210648,Ahmed Hegazi,29,Egypt,72,73,West Bromwich Albion,2900000,48000,Right,Defender
+188253,James McCarthy,29,Republic of Ireland,76,76,Crystal Palace,6500000,46000,Right,Midfielder
+163631,Leighton Baines,34,England,75,75,Everton,2300000,57000,Left,Defender
+253427,Mace Goodridge,20,England,60,68,Burnley,300000,6000,Right,Midfielder
+184480,Hal Robson-Kanu,31,Wales,70,70,West Bromwich Albion,1600000,42000,Left,Striker
+186158,Kyle Bartley,29,England,72,73,West Bromwich Albion,2900000,48000,Right,Defender
+188166,Matt Phillips,29,Scotland,75,75,West Bromwich Albion,6500000,70000,Right,Midfielder
+193011,Steve Cook,29,England,75,75,Bournemouth,5500000,14000,Right,Defender
+258929,Lars Dendoncker,19,Belgium,55,71,Brighton & Hove Albion,160000,4000,Right,Defender
+231413,Michael Verrips,23,Netherlands,69,76,Sheffield United,1100000,10000,Right,Goalkeeper
+234571,Mésaque Geremias Djú,21,Portugal,58,71,West Ham United,250000,4000,Right,Midfielder
+203751,Conor Townsend,27,England,71,72,West Bromwich Albion,2400000,41000,Left,Defender
+177922,Kamil Grosicki,32,Poland,74,74,West Bromwich Albion,4400000,62000,Right,Midfielder
+212210,Richairo Živković,22,Netherlands,68,73,Sheffield United,1200000,13000,Right,Striker
+170084,Wayne Hennessey,33,Wales,75,75,Crystal Palace,3600000,34000,Right,Goalkeeper
+53739,Lee Grant,37,England,70,70,Manchester United,180000,23000,Right,Goalkeeper
+242386,Christoph Klarer,20,Austria,60,71,Southampton,325000,5000,Right,Defender
+209532,Daniel Bachmann,25,Austria,69,74,Watford,1000000,6000,Right,Goalkeeper
+192317,Jed Steer,27,England,70,72,Aston Villa,1500000,21000,Left,Goalkeeper
+186139,Matty James,28,England,66,66,Leicester City,650000,20000,Right,Midfielder
+163261,Phil Bardsley,35,Scotland,73,73,Burnley,1100000,26000,Right,Defender
+242436,Jon Russell,18,England,57,71,Chelsea,210000,4000,Right,Midfielder
+227854,Matty Foulds,21,England,59,70,Everton,240000,7000,Left,Defender
+208339,Oumar Niasse,29,Senegal,72,72,Everton,3100000,53000,Right,Striker
+189324,Alex McCarthy,30,England,77,77,Southampton,6000000,39000,Right,Goalkeeper
+189059,Jake Livermore,30,England,74,74,West Bromwich Albion,4600000,57000,Right,Midfielder
+254121,Charlie Cresswell,17,England,55,70,Leeds United,150000,500,Right,Defender
+186392,Joel Ward,30,England,76,76,Crystal Palace,6000000,44000,Right,Defender
+189446,Junior Stanislas,30,England,73,73,Bournemouth,3800000,12000,Right,Striker
+198331,Matěj Vydra,28,Czech Republic,73,73,Burnley,4100000,44000,Right,Striker
+254798,Alpha Dionkou,17,Senegal,62,80,Manchester City,550000,700,Right,Defender
+228789,Robert Lynch Sanchez,22,Spain,64,75,Brighton & Hove Albion,625000,7000,Right,Goalkeeper
+172953,Adrian Mariappa,32,Jamaica,74,74,Watford,3600000,45000,Right,Defender
+192838,Ezequiel Schelotto,30,Italy,72,72,Brighton & Hove Albion,2500000,29000,Right,Defender
+173735,Neil Taylor,31,Wales,70,70,Aston Villa,1300000,26000,Left,Defender
+204499,Ryan Inniss,25,England,64,66,Crystal Palace,500000,10000,Right,Defender
+245611,David Parkhouse,20,Northern Ireland,59,71,Sheffield United,275000,4000,Right,Striker
+247343,Manasse Mampala,18,England,62,76,Everton,625000,5000,Right,Striker
+237213,Josh Knight,22,England,64,73,Leicester City,675000,13000,Right,Midfielder
+231438,Tunji Akinola,20,England,56,66,West Ham United,130000,7000,Right,Defender
+215756,Sam McQueen,25,England,66,70,Southampton,725000,12000,Left,Defender
+188155,Daryl Janmaat,30,Netherlands,75,75,Watford,5500000,17000,Right,Defender
+171972,James McArthur,32,Scotland,75,75,Crystal Palace,5000000,46000,Right,Midfielder
+13732,John Terry,36,England,76,76,Aston Villa,1000000,30000,Right,Defender
+248472,Marcel Lavinier,18,England,56,70,Chelsea,170000,3000,Right,Defender
+243848,Brooklyn Lyons-Foster,18,England,58,78,Tottenham Hotspur,250000,3000,Right,Defender
+229605,Callum Connolly,22,England,65,71,Everton,675000,13000,Right,Defender
+243890,Callum Rowe,20,England,51,65,Aston Villa,80000,5000,Right,Midfielder
+240510,Joshua Bohui,19,England,64,78,Manchester United,975000,10000,Right,Striker
+237386,Kiernan Dewsbury-Hall,21,England,62,73,Leicester City,525000,9000,Left,Midfielder
+223306,Jarosław Jach,26,Poland,66,70,Crystal Palace,725000,13000,Left,Defender
+223082,Will Norris,26,England,65,67,Burnley,475000,9000,Left,Goalkeeper
+52091,Patrice Evra,36,France,75,75,West Ham United,775000,50000,Left,Defender
+243844,Tariq Hinds,19,England,61,79,Tottenham Hotspur,500000,6000,Right,Defender
+216656,Jerome Sinclair,23,England,64,70,Watford,625000,4000,Right,Midfielder
+184749,Dan Gosling,30,England,73,73,Bournemouth,3700000,12000,Right,Midfielder
+52326,Eldin Jakupović,35,Switzerland,66,66,Leicester City,170000,9000,Right,Goalkeeper
+173546,James Tomkins,31,England,76,76,Crystal Palace,5500000,44000,Right,Defender
+169721,Micah Richards,30,England,68,68,Aston Villa,675000,8000,Right,Defender
+157665,Scott Dann,33,England,73,73,Crystal Palace,1900000,36000,Right,Defender
+253034,Di'Shon Bernard,18,England,61,77,Manchester United,475000,4000,Right,Defender
+252707,Romaric Yapi,19,France,60,75,Brighton & Hove Albion,400000,4000,Right,Defender
+251407,Jack Young,19,England,56,76,Newcastle United,190000,3000,Right,Midfielder
+246273,Rodel Richards,18,England,59,75,Tottenham Hotspur,325000,5000,Right,Striker
+236321,Dan N'Lundulu,21,England,59,70,Southampton,275000,6000,Right,Striker
+221202,Marcus Barnes,22,England,60,67,Southampton,300000,7000,Left,Striker
+188836,Jason Steele,29,England,67,67,Brighton & Hove Albion,550000,13000,Right,Goalkeeper
+197928,Jonathan Bond,27,England,64,67,West Bromwich Albion,400000,12000,Right,Goalkeeper
+184037,Martin Kelly,30,England,75,75,Crystal Palace,5500000,42000,Right,Defender
+137677,Michel Vorm,35,Netherlands,74,74,Tottenham Hotspur,1500000,30000,Right,Goalkeeper
+45119,Mikel Arteta Amatriain,33,Spain,78,78,Arsenal,5000000,70000,Right,Midfielder
+48940,Petr Čech,36,Czech Republic,81,81,Arsenal,2400000,60000,Left,Goalkeeper
+243391,Iker Pozo La Rosa,18,Spain,57,76,Manchester City,200000,4000,Right,Midfielder
+240142,Nathan Tormey,19,England,58,72,Arsenal,275000,6000,Left,Midfielder
+228368,Jamie Sterry,23,England,59,66,Newcastle United,190000,5000,Right,Defender
+142784,Pablo Zabaleta,34,Argentina,74,74,West Ham United,2000000,53000,Right,Defender
+194150,Simon Moore,30,England,67,67,Sheffield United,525000,8000,Right,Goalkeeper
+241,Ryan Giggs,39,Wales,78,78,Manchester United,1000,60000,Left,Midfielder
+258805,Harrison Ashby,18,Scotland,58,74,West Ham United,240000,2000,Right,Defender
+231673,Luke Dreher,21,England,58,71,Crystal Palace,240000,6000,Right,Midfielder
+193550,Beram Kayal,31,Israel,71,71,Brighton & Hove Albion,2000000,28000,Right,Midfielder
+182882,Carlos Sánchez,33,Colombia,72,72,West Ham United,1500000,43000,Right,Midfielder
+178567,Erik Pieters,31,Netherlands,74,74,Burnley,4100000,39000,Left,Defender
+200807,Kieron Freeman,27,Wales,67,67,Sheffield United,675000,11000,Right,Defender
+116314,David Martin,34,England,66,66,West Ham United,275000,8000,Right,Goalkeeper
+51539,Edwin van der Sar,39,Netherlands,83,87,Manchester United,0,0,Right,Goalkeeper
+251462,David Boateng,19,England,60,77,Crystal Palace,425000,4000,Right,Midfielder
+242435,Jack Wakely,18,England,59,77,Chelsea,300000,3000,Right,Defender
+244191,Joseph Anang,19,England,55,70,West Ham United,140000,3000,Right,Goalkeeper
+245397,Peter Gwargis,19,Sweden,58,73,Brighton & Hove Albion,275000,4000,Left,Midfielder
+246422,Sidnei Tavares,17,Portugal,60,78,Leicester City,400000,1000,Right,Midfielder
+204519,Cuco Martina,29,Curacao,68,68,Everton,750000,25000,Right,Defender
+246454,Dominic Revan,19,England,55,72,Aston Villa,160000,4000,Left,Defender
+242423,Callum Wright,19,England,60,75,Leicester City,450000,6000,Right,Midfielder
+238221,Nikola Tavares,21,Croatia,54,67,Crystal Palace,120000,5000,Left,Defender
+194146,Kevin Long,29,Republic of Ireland,71,71,Burnley,2000000,29000,Right,Defender
+172768,Andrew Surman,32,England,74,74,Bournemouth,4300000,49000,Left,Midfielder
+173533,David Button,31,England,68,68,West Bromwich Albion,575000,21000,Right,Goalkeeper
+53612,Per Mertesacker,32,Germany,80,80,Arsenal,8500000,110000,Right,Defender
+253421,Kameron Ledwidge,18,Republic of Ireland,56,70,Southampton,170000,2000,Left,Defender
+253407,Sam Greenwood,17,England,57,74,Arsenal,210000,2000,Right,Striker
+247342,Con Ouzounidis,19,Australia,60,73,Everton,350000,5000,Right,Defender
+251674,Jean Belehouan,19,France,50,64,Sheffield United,60000,2000,Left,Defender
+241160,George McEachran,18,England,59,79,Chelsea,325000,5000,Left,Midfielder
+241386,Jamie Soule,19,England,58,75,West Bromwich Albion,275000,7000,Right,Striker
+245019,Sam Woods,21,England,56,69,Crystal Palace,160000,5000,Right,Defender
+234252,Corey Jordan,21,England,58,70,Bournemouth,210000,2000,Right,Defender
+236550,Mikael Ndjoli,21,England,59,71,Bournemouth,275000,2000,Right,Striker
+180706,Craig Cathcart,31,Northern Ireland,74,74,Watford,4200000,15000,Right,Defender
+162981,James Morrison,32,Scotland,71,71,West Bromwich Albion,1800000,20000,Right,Midfielder
+12265,Owen Hargreaves,30,England,78,78,Manchester City,3000000,30000,Right,Midfielder
+155886,Stephen Henderson,32,Republic of Ireland,65,65,Crystal Palace,325000,9000,Right,Goalkeeper
+257253,Bobby Thomas,19,England,58,75,Burnley,250000,4000,Right,Defender
+247739,Jordan Cropper,20,England,53,65,Burnley,100000,5000,Right,Defender
+243589,Alex Cochrane,20,England,54,68,Brighton & Hove Albion,140000,5000,Left,Defender
+243669,Jaidon Anthony,20,England,58,72,Bournemouth,275000,2000,Right,Striker
+232396,Collins Tanor,21,Ghana,54,65,Manchester City,120000,10000,Right,Midfielder
+213649,Dejan Iliev,25,North Macedonia,61,67,Arsenal,250000,8000,Right,Goalkeeper
+135451,Heurelho Silva Gomes,38,Brazil,75,75,Watford,675000,26000,Right,Goalkeeper
+21146,Michael Carrick,35,England,79,79,Manchester United,3000000,90000,Right,Midfielder
+51257,Peter Crouch,37,England,72,72,Burnley,900000,30000,Right,Striker
+6826,Gareth Barry,38,England,70,70,West Bromwich Albion,375000,15000,Left,Midfielder
+5809,Nicolas Anelka,34,France,77,77,West Bromwich Albion,2100000,45000,Right,Striker
+1845,Ole Gunnar Solskjær,34,Norway,75,83,Manchester United,0,0,Right,Striker
+259032,Teddy Jenks,18,England,54,71,Brighton & Hove Albion,140000,3000,Right,Midfielder
+250827,Brandon Aveiro,18,Portugal,58,75,Crystal Palace,275000,3000,Right,Striker
+245728,Tobi Omole,19,England,54,70,Arsenal,140000,5000,Left,Defender
+240945,Giovanni McGregor,21,England,57,71,Crystal Palace,230000,6000,Right,Midfielder
+241402,Saul Shotton,19,England,53,73,West Bromwich Albion,120000,5000,Right,Defender
+237188,Nathan Bishop,19,England,63,77,Manchester United,675000,5000,Right,Goalkeeper
+219551,Conor Shaughnessy,24,Republic of Ireland,62,69,Leeds United,375000,12000,Right,Defender
+224397,Kamil Miazek,23,Poland,61,69,Leeds United,275000,8000,Right,Goalkeeper
+199633,Matthew Lowton,31,England,75,75,Burnley,4800000,42000,Right,Defender
+179613,Bakary Sako,30,Mali,71,71,Crystal Palace,2200000,30000,Left,Striker
+164469,Gabriel Agbonlahor,30,England,69,69,Aston Villa,1000000,20000,Right,Striker
+259090,Will Rickard,18,Wales,56,66,Burnley,130000,3000,Right,Midfielder
+252070,Owen Windsor,18,England,53,68,West Bromwich Albion,120000,4000,Left,Striker
+247012,Michael Tait,19,England,52,69,Aston Villa,110000,5000,Right,Striker
+232757,Kyle Scott,22,United States,57,68,Newcastle United,170000,5000,Right,Midfielder
+188556,Mohamed Diamé,31,Senegal,75,75,Newcastle United,5500000,40000,Right,Midfielder
+183375, Fábio Paim,20,Portugal,70,78,Chelsea,0,0,Right,Striker
+182761,Adam Legzdins,32,England,64,64,Burnley,275000,6000,Right,Goalkeeper
+169638,Charlie Daniels,32,England,72,72,Bournemouth,1900000,37000,Left,Defender
+246,Paul Scholes,37,England,80,80,Manchester United,400000,40000,Right,Midfielder
+249,Phil Neville,35,England,74,74,Everton,120000,7000,Right,Midfielder
+255120,Nohan Kenneh,16,England,55,78,Leeds United,160000,500,Right,Defender
+246392,Lewis Brunt,19,England,52,69,Aston Villa,110000,4000,Right,Midfielder
+242365,Aidan Barlow,19,England,65,79,Manchester United,1200000,12000,Right,Midfielder
+241035,Jonathan Dinzeyi,19,England,61,77,Tottenham Hotspur,500000,6000,Right,Defender
+241875,Will Ferry,20,Republic of Ireland,59,69,Southampton,250000,6000,Left,Striker
+237185,Jordan Davies,20,Wales,52,61,Brighton & Hove Albion,80000,5000,Left,Midfielder
+226822,Callum Roberts,21,England,62,74,Newcastle United,550000,6000,Left,Midfielder
+167931,Rob Elliot,33,Republic of Ireland,69,69,Newcastle United,575000,13000,Left,Goalkeeper
+146692,Anderson Luis De Carvalho,32,Brazil,76,76,West Ham United,3700000,50000,Left,Striker
+118794,Andy Lonergan,35,England,65,65,Liverpool,150000,8000,Left,Goalkeeper
+111010,Vicente Rodríguez Guillén,30,Spain,72,72,Brighton & Hove Albion,1700000,7000,Left,Midfielder
+1419,Patrick Vieira,34,France,76,87,Manchester City,0,0,Right,Midfielder
+257254,Max Thompson,18,England,61,76,Burnley,525000,4000,Right,Striker
+254857,Bayli Spencer-Adams,18,England,61,76,Watford,475000,2000,Right,Defender
+254858,Christian Saydee,18,England,58,75,Bournemouth,275000,1000,Right,Striker
+255507,Jake Scrimshaw,19,England,53,63,Bournemouth,90000,1000,Right,Striker
+253161,Jacob Mensah,18,Ghana,56,65,Crystal Palace,120000,2000,Right,Defender
+253452,Miguel Azeez,16,England,59,76,Arsenal,300000,1000,Right,Midfielder
+252067,George Harmon,19,England,54,74,West Bromwich Albion,140000,5000,Left,Defender
+251546,Kyron Gordon,18,England,52,70,Sheffield United,100000,1000,Right,Defender
+247011,Jack Birch,18,England,52,72,Aston Villa,100000,3000,Right,Midfielder
+235076,Layton Ndukwu,20,England,60,72,Leicester City,375000,8000,Left,Midfielder
+227807,Michael Folivi,21,England,61,72,Watford,450000,8000,Right,Striker
+222096,Harry Lewis,22,England,62,74,Southampton,425000,5000,Right,Goalkeeper
+222060,Nathan Allan de Souza,23,Brazil,71,76,Chelsea,3200000,45000,Right,Midfielder
+181483,Mile Jedinák,33,Australia,71,71,Aston Villa,950000,10000,Right,Midfielder
+139533,Alan Hutton,33,Scotland,69,69,Aston Villa,400000,9000,Right,Defender
+135883,Simon Francis,34,England,74,74,Bournemouth,2100000,45000,Right,Defender
+244,Gary Neville,35,England,76,82,Manchester United,0,0,Right,Defender
+259091,Connor Barrett,18,England,56,67,Burnley,130000,2000,Right,Defender
+255419,Joel Mumbongo,21,Sweden,57,66,Burnley,160000,6000,Right,Striker
+254326,Henri Ogunby,18,England,55,73,Burnley,160000,2000,Right,Striker
+252450,Harry Boyes,22,England,50,61,Sheffield United,45000,4000,Left,Defender
+248540,Isaiah Bazeley-Graham,19,England,52,64,Aston Villa,80000,4000,Right,Defender
+248356,Thierno Ballo,17,Austria,56,72,Chelsea,180000,2000,Right,Midfielder
+245020,Joseph Hungbo,19,England,58,74,Watford,275000,5000,Left,Midfielder
+242369,Arnau Puigmal Martínez,18,Spain,63,81,Manchester United,750000,6000,Right,Midfielder
+243668,Dinesh Gillela,20,England,57,68,Bournemouth,160000,2000,Right,Defender
+242281,Kun Temenuzhkov,19,Bulgaria,59,75,Leeds United,325000,6000,Right,Striker
+236358,Kian Flanagan,19,Republic of Ireland,58,74,Crystal Palace,275000,4000,Right,Midfielder
+189099,Jonathan Kodjia,29,Ivory Coast,72,72,Aston Villa,3100000,40000,Right,Striker
+170783,Cheick Tioté,30,Ivory Coast,76,76,Newcastle United,3800000,50000,Right,Midfielder
+166862,Jake Wright,33,England,68,68,Sheffield United,425000,10000,Left,Defender
+169575,Lee Peltier,33,England,69,69,West Bromwich Albion,475000,30000,Right,Defender
+146641, Sylvinho,35,Brazil,77,84,Manchester City,0,0,Left,Defender
+51261,Boaz Myhill,35,Wales,70,70,West Bromwich Albion,425000,9000,Right,Goalkeeper
+46815,Brede Hangeland,34,Norway,72,72,Crystal Palace,650000,15000,Right,Defender
+138193,Joey Barton,33,England,75,75,Burnley,2500000,40000,Right,Midfielder
+138436,Jonathan Walters,34,Republic of Ireland,71,71,Burnley,1200000,30000,Right,Striker
+50752,Ledley King,30,England,82,82,Tottenham Hotspur,7000000,60000,Right,Defender
+13914,Paul Robinson,36,England,69,69,Burnley,450000,10000,Right,Goalkeeper
+255474,Mark Helm,17,England,59,75,Manchester United,300000,2000,Right,Midfielder
+253419,Pascal Kpohomouh,17,England,59,72,Southampton,240000,500,Right,Defender
+252889,Josh Galloway,17,Scotland,53,75,Leeds United,130000,1000,Right,Midfielder
+252134,Leighton Clarkson,17,England,58,77,Liverpool,240000,500,Right,Midfielder
+251458,Marcel Elva-Fountaine,19,England,54,68,Burnley,140000,3000,Right,Defender
+251314,Stuart McKinstry,16,Scotland,56,78,Leeds United,200000,1000,Right,Midfielder
+248732,Karl Hein,17,Estonia,55,73,Arsenal,130000,500,Right,Goalkeeper
+250874,Sean Adarkwa,18,England,58,68,West Ham United,190000,4000,Right,Striker
+245128,Lewis Bryon,19,England,57,70,Crystal Palace,180000,4000,Right,Defender
+244306,Sam Graham,19,England,56,73,Sheffield United,180000,3000,Right,Defender
+241383,Daniel Meredith,19,Scotland,61,75,West Bromwich Albion,500000,3000,Right,Defender
+241421,Harlem Hale,19,England,57,65,Southampton,150000,5000,Right,Striker
+240803,Josh Eppiah,20,Belgium,55,66,Leicester City,140000,8000,Left,Striker
+240767,Keenan Ferguson,19,England,54,72,Sheffield United,140000,2000,Right,Defender
+234251,Keelan O'Connell,20,England,58,70,Bournemouth,230000,2000,Right,Striker
+229345,Mateusz Hewelt,21,Poland,61,69,Everton,275000,7000,Right,Goalkeeper
+225620,Nathan Mavila,19,England,56,64,West Ham United,130000,2000,Left,Midfielder
+204254,Wallace Oliveira dos Santos,23,Brazil,69,72,Chelsea,1100000,40000,Right,Defender
+189067,Miguel Britos,32,Uruguay,73,73,Watford,2300000,40000,Left,Defender
+174808,Jimmy Kébé,30,Mali,66,66,Crystal Palace,600000,6000,Right,Midfielder
+158804,Leon Osman,34,England,75,75,Everton,2000000,25000,Right,Midfielder
+137832,Diego Cavalieri,34,Brazil,73,73,Crystal Palace,1600000,40000,Left,Goalkeeper
+137785,Robert Huth,32,Germany,74,74,Leicester City,3200000,50000,Right,Defender
+101880,Rob Green,38,England,70,70,Chelsea,120000,20000,Right,Goalkeeper
+134941,Steve Sidwell,34,England,71,71,Brighton & Hove Albion,1200000,30000,Right,Midfielder
+46590,Christopher Samba,33,Congo,71,71,Aston Villa,950000,20000,Right,Defender
+26992,Sylvain Distin,37,France,77,77,Bournemouth,0,30000,Left,Defender
+51264,Thomas Hitzlsperger,30,Germany,73,73,Everton,1400000,9000,Left,Midfielder
+2148,Hatem Trabelsi,29,Tunisia,79,82,Manchester City,0,0,Right,Midfielder
+5467,Jamie Carragher,34,England,77,77,Liverpool,825000,20000,Right,Defender
+684,Mark Schwarzer,42,Australia,73,73,Leicester City,500000,15000,Right,Goalkeeper
+388,Sol Campbell,35,England,75,79,Newcastle United,0,0,Right,Defender
+2956,Stiliyan Petrov,32,Bulgaria,76,76,Aston Villa,2200000,20000,Right,Midfielder
